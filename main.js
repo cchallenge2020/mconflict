@@ -1,1 +1,1 @@
-var message ="hello world"
+var message ="hello flat earth"
